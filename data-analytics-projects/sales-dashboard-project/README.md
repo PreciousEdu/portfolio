@@ -3,6 +3,10 @@
 ## Project Overview
 This project analyzes sales performance data to uncover trends, customer behavior, and revenue insights.
 
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard-screenshot.png)
+
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
