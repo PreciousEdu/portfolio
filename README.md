@@ -19,3 +19,4 @@ Projects using Pivot Tables, VLOOKUP, and data cleaning
 Python, Pandas, Excel, PowerBI, BeautifulSoup, Git, GitHub
 
 Let's connect: www.linkedin.com/in/precious-sam-edu
+Email: vodinanoble@gmail.com
