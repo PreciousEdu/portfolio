@@ -6,6 +6,9 @@ Data Analyst | Excel | Web Scraping
 ### Excel 
 Projects using Pivot Tables, VLOOKUP, and data cleaning
 
+### Power BI
+Projects using Power BI and Power Query to create dashboards and visualizations
+
 ### Python
 - **Automatic File Sorter**: Organizes files automatically with os & sutil
 - **BMI Calculator**: Calculates BMI and gives health category
